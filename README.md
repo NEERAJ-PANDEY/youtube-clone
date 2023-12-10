@@ -8,74 +8,81 @@
 
 👉 [Live Demo](https://youtube-clone-tonnykh.vercel.app/) Click "Live Demo" to open it
 
-## Technologies Used
+## 📌 Technologies, Technologies and Libraries used 🛠️
+    -ReactJS - Javascript library
+    -React-Router - Used for Routing
+    -Redux-Toolkit - Used for State Management
+    -SCSS - Used for Styling
+    -Material Ui - Used for Icons and some Styling
+    -YouTube API V3 - API used in this Project
+    -Axios - For HTTP request
+    -Moment.js - Used for parsing, validating, manipulating, and formatting dates (eg Video Upload dates on youtube videos)
+    -react-infinite-scroll-component - Used for Imfinite Data Fetching
+    -react-lazy-load-image-component - Used for Lazy Loading Image for Optimization
+    -react-top-loading-bar - Used for top loading bar
+    -Vercel - Used for Deployment
+ 
+## 📌 Sneak Peek of Main Page:
+![Screenshot (211)](https://github.com/NEERAJ-PANDEY/youtube-clone/blob/b1a17412e107b7505e373cb9377234b84c2c251e/Screenshot%20(1499).png)
 
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height="25">
 
-<img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" height="25">
+## 📌 Getting Started 🚀
 
-<img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindCSS" height="25">
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+There are two methods:-
+#### 1. Using Docker (Recommended)
+#### 2. Using npm/yarn
 
-<img src="https://img.shields.io/badge/-React_Router-05122A?style=flat&logo=react-router" height="25">
+### Method-1. Using npm/yarn
 
-<img src="https://img.shields.io/badge/-webpack-05122A?style=flat&logo=webpack" height="25">
+## Prerequisites 📋
 
-## Features
+You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
 
-- Debouncing with 200ms, improving the "🔍search" by reducing the API calls on frequent key press.
-- Cached the search results using the Redux store to reduce the number of API calls.
-- 1-level nested comments💬 using the concept of "Recursion".
-- Implemented Live Chat 🟢, using the concept of API polling after every 1500ms and decreased website load by removing old chats present in the redux store.
-- Applied logical bundling (chunking) to optimized the app with fast initial page load time.
-- Powered the data layer with Youtube's Live API.
-- Infinite Scroll on Home page.
-- Full Responsive design.
+```
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
+```
 
-## Screenshots
 
-## Home Page
 
-<img width="1440" alt="Screenshot 2023-03-02 at 4 57 42 PM" src="https://user-images.githubusercontent.com/40168058/222416119-7a7af40e-3818-436d-93d4-3790ba10b2dd.png">
+```bash
+# Clone this repository
+$ git clone https://github.com/sayande2002/youtube_clone_reactjs
 
-## Mobile Home page
+# Go into the repository
+$ cd youtube_clone_reactjs
 
-<img width="306" alt="Screenshot 2023-03-02 at 4 58 51 PM" src="https://user-images.githubusercontent.com/40168058/222416485-ed4f6c3b-3b57-4af3-b320-e4e185a3d493.png">
+# Remove current origin repository
+$ git remote remove origin
+```
 
-## Search Input Dropdown
+Then you can install the dependencies either using NPM or Yarn:
 
-<img width="1440" alt="Screenshot 2023-03-02 at 5 02 53 PM" src="https://user-images.githubusercontent.com/40168058/222417268-84715105-b3b8-4e73-bd9e-fdd08b4c0aaf.png">
+Using NPM:
 
-## Mobile Search Input Dropdown
+```bash
+# Install dependencies
+$ npm install
 
-<img width="318" alt="Screenshot 2023-03-02 at 5 04 34 PM" src="https://user-images.githubusercontent.com/40168058/222417644-8e1e544f-0bd2-4bc6-9a5a-d6accca35391.png">
+# Start development server
+$ npm start
+```
 
-## Search Page
+Once your server has started, go to this url `http://localhost:3000/` and you will see the website running on a Development Server.
 
-<img width="1440" alt="Screenshot 2023-03-02 at 5 14 29 PM" src="https://user-images.githubusercontent.com/40168058/222419540-9256a2ea-72ee-4f5d-803f-cd1c4fffd2d4.png">
+### 📌 WARNING
+If the app does not load anything or the search function doesn't work, it is very likely the daily YouTube API quota has exceeded. There are only 5000 daily quotas for free usage, and each search costs 100 quotas.
 
-## Mobile Search Page
+### 📌 Authors
+-[Neeraj PANDEY](https://github.com/NEERAJ-PANDEY)
 
-<img width="372" alt="Screenshot 2023-03-02 at 5 15 21 PM" src="https://user-images.githubusercontent.com/40168058/222419783-a3c3f565-e745-4b1f-b5fa-ec3f66adbd20.png">
+### 📌 Contributing
+Please feel free to pull requests or log issues.
 
-## Sidebar
+### 📌 Contact 📬
+For any query, email neerajpandey007star@gmail.com.
 
-<img width="1440" alt="Screenshot 2023-03-02 at 4 24 51 PM" src="https://user-images.githubusercontent.com/40168058/222409021-78465709-98bd-4aed-981a-b410ecab91c0.png">
-
-## Mobile Sidebar
-
-<img width="373" alt="Screenshot 2023-03-02 at 5 17 49 PM" src="https://user-images.githubusercontent.com/40168058/222420333-73aa93bb-123d-4353-817f-1bff646e0af5.png">
-
-## Watch Page
-
-<img width="1440" alt="Screenshot 2023-03-02 at 4 50 56 PM" src="https://user-images.githubusercontent.com/40168058/222414668-57b3d9cf-bfc7-44ba-bd68-8da34c89fa3e.png">
-
-## Mobile Watch Page
-
-<img width="319" alt="Screenshot 2023-03-02 at 4 53 37 PM" src="https://user-images.githubusercontent.com/40168058/222415424-1cf833e1-bd9e-409d-8b7d-2bd457f2a52b.png">
-
-## 👨‍💻 Connect with me
-
-You can reach me through below handles.
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/1013858160110485655)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh-tonny)
+Thanks!
+   
