@@ -24,6 +24,44 @@
  
 ## 📌 Sneak Peek of Main Page:
 ![Screenshot (211)](https://github.com/NEERAJ-PANDEY/youtube-clone/blob/b1a17412e107b7505e373cb9377234b84c2c251e/Screenshot%20(1499).png)
+## Screenshots
+
+## Home Page
+
+<img width="1440" alt="Screenshot 2023-03-02 at 4 57 42 PM" src="https://user-images.githubusercontent.com/40168058/222416119-7a7af40e-3818-436d-93d4-3790ba10b2dd.png">
+
+## Mobile Home page
+
+<img width="306" alt="Screenshot 2023-03-02 at 4 58 51 PM" src="https://user-images.githubusercontent.com/40168058/222416485-ed4f6c3b-3b57-4af3-b320-e4e185a3d493.png">
+
+## Search Input Dropdown
+
+<img width="1440" alt="Screenshot 2023-03-02 at 5 02 53 PM" src="https://user-images.githubusercontent.com/40168058/222417268-84715105-b3b8-4e73-bd9e-fdd08b4c0aaf.png">
+
+## Mobile Search Input Dropdown
+
+<img width="318" alt="Screenshot 2023-03-02 at 5 04 34 PM" src="https://user-images.githubusercontent.com/40168058/222417644-8e1e544f-0bd2-4bc6-9a5a-d6accca35391.png">
+
+## Search Page
+
+<img width="1440" alt="Screenshot 2023-03-02 at 5 14 29 PM" src="https://github.com/NEERAJ-PANDEY/youtube-clone/blob/b43fc7b45e205a5945d099a5fb1c7f01dd6af9e0/Screenshot%20(1500).png">
+
+## Mobile Search Page
+
+<img width="372" alt="Screenshot 2023-03-02 at 5 15 21 PM" src="https://user-images.githubusercontent.com/40168058/222419783-a3c3f565-e745-4b1f-b5fa-ec3f66adbd20.png">
+
+## Sidebar
+
+<img width="1440" alt="Screenshot 2023-03-02 at 4 24 51 PM" src="https://user-images.githubusercontent.com/40168058/222409021-78465709-98bd-4aed-981a-b410ecab91c0.png">
+
+## Mobile Sidebar
+
+<img width="373" alt="Screenshot 2023-03-02 at 5 17 49 PM" src="https://user-images.githubusercontent.com/40168058/222420333-73aa93bb-123d-4353-817f-1bff646e0af5.png">
+
+## Watch Page
+
+<img width="1440" alt="Screenshot 2023-03-02 at 4 50 56 PM" src="https://user-images.githubusercontent.com/40168058/222414668-57b3d9cf-bfc7-44ba-bd68-8da34c89fa3e.png">
+
 
 
 ## 📌 Getting Started 🚀
