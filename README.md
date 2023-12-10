@@ -50,14 +50,6 @@
 
 <img width="372" alt="Screenshot 2023-03-02 at 5 15 21 PM" src="https://user-images.githubusercontent.com/40168058/222419783-a3c3f565-e745-4b1f-b5fa-ec3f66adbd20.png">
 
-## Sidebar
-
-<img width="1440" alt="Screenshot 2023-03-02 at 4 24 51 PM" src="https://user-images.githubusercontent.com/40168058/222409021-78465709-98bd-4aed-981a-b410ecab91c0.png">
-
-## Mobile Sidebar
-
-<img width="373" alt="Screenshot 2023-03-02 at 5 17 49 PM" src="https://user-images.githubusercontent.com/40168058/222420333-73aa93bb-123d-4353-817f-1bff646e0af5.png">
-
 ## Watch Page
 
 <img width="1440" alt="Screenshot 2023-03-02 at 4 50 56 PM" src="https://user-images.githubusercontent.com/40168058/222414668-57b3d9cf-bfc7-44ba-bd68-8da34c89fa3e.png">
