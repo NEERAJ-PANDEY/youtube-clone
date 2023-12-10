@@ -12,7 +12,7 @@ const list = [
   "Web Developer",
   "Hooks",
   "Component",
-  "Akshay Saini OP",
+  "CarryMinati",
   "npm",
   "Infinite Scroll",
   "Cache",
